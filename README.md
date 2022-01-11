@@ -1,13 +1,12 @@
+• passionate software developer 💻
+(͠≖ ͜ʖ͠≖) 👌
 
-• leidenschaftlicher Software Entwickler 💻
-(͠≖ ͜ʖ͠≖)👌
-
-• Coole Programmiersprachen sind:
+• Cool programming languages ​​are:
 - Java
 - Kotlin
 - TypeScript
 - JavaScript
-- C#/C++
+- C # / C ++
 
-• Derzeitige Projekte:
+• Current projects:
 - Travunia.NET
