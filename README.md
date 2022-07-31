@@ -7,6 +7,3 @@
 - TypeScript
 - JavaScript
 - C # / C ++
-
-• Current projects:
-- Travunia.NET
