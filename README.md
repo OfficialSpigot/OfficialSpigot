@@ -8,3 +8,8 @@
 - MongoDB
 - Spring Boot
 - Minecraft
+- Angular
+- Redis
+- MariaDB
+- TailwindCSS
+- Bootstrap
