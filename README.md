@@ -1,9 +1,10 @@
 • passionate software developer 💻
 (͠≖ ͜ʖ͠≖) 👌
 
-• Cool programming languages ​​are:
+• Already worked with:
 - Java
-- Kotlin
 - TypeScript
 - JavaScript
-- C # / C ++
+- MongoDB
+- Spring Boot
+- Minecraft
