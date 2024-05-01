@@ -12,4 +12,3 @@
 - Redis
 - MariaDB
 - TailwindCSS
-- Bootstrap
